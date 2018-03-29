@@ -48,7 +48,7 @@ npm run unit
 
 ### Running Code Style Test
 
-Vuejs eslint will make sure that the code doesn’t adhere to Airbnb js style guide.
+Vuejs eslint will make sure that the code adhere to Airbnb js style guide.
 
 ``` bash
 
