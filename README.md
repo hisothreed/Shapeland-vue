@@ -25,7 +25,7 @@ npm run dev
 
 ```
 
-#Features 
+## Features 
 
 * Draggable components.
 * shape rendering and manipulation (type, color, size, scale, text) on a single canvas.
@@ -43,7 +43,6 @@ working as it suppose to.
 ``` bash
 
 npm run unit
-
 
 ```
 
