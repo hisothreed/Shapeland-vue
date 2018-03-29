@@ -3,7 +3,7 @@
 Interactive Canvas implementation with Vuejs.
 
 
-![Example](https://imgur.com/a/f7Wzs)
+![Example](https://media.giphy.com/media/5wFRCMEOfCP9RYNuqL/giphy.gif)
 
 ## Usage
 
