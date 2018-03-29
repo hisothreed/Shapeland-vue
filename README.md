@@ -11,7 +11,7 @@ First Clone The Repo:
 
 ``` bash
 
-git clone 
+git clone https://github.com/hisothreed/Shapeland-vue.git
 
 ```
 To get it up and running, run:
