@@ -14,7 +14,7 @@ First Clone The Repo:
 git clone https://github.com/hisothreed/Shapeland-vue.git
 
 ```
-To get it up and running, run:
+To get it up and running
 
 ``` bash
 # first install dependencies
